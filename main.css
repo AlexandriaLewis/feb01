@@ -1,0 +1,114 @@
+* {
+  background-color: #86BA90;
+  color: #412722;
+}
+
+a {
+  color: #F5F3BB;
+  font-family: monospace;
+}
+
+#navbar {
+  display: inline-block;
+  position: fixed;
+  width: 100%;
+  font-family: inherit;
+  background-color: #df2935;
+  padding-bottom: 10px;
+}
+
+.bottomBar {
+  display: inline-block;
+  width: 100%;
+  font-family: inherit;
+  background-color: #df2935;
+  padding-top: 20px;
+}
+
+.bottomBar p {
+  background-color: #df2935;
+  padding: 10px;
+  font-size: 40px;
+  font-family: monospace;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 62%;
+}
+
+ .header {
+   display: inline-block;
+   padding: 10px;
+   background-color: #df2935;
+ }
+
+ul {
+  display: inline-block;
+  padding: 10px;
+  margin-left: 40%;
+  background-color: #df2935;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+  background-color: #df2935;
+}
+
+.photo {
+  display: inline-block;
+  margin: 20px;
+}
+
+img {
+  border-radius: 20%;
+}
+
+.faqPhoto {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 14%;
+  vertical-align: top;
+  padding-top: 8%;
+}
+
+.allPhotos {
+  margin-left: 6%;
+  padding-top: 8%;
+}
+
+.photoText {
+  width: 500px;
+  margin-top: 30px;
+}
+
+.faqText {
+  display: inline-block;
+  height: 500px;
+  margin-left: 10%;
+  padding-top: 8%;
+}
+
+.paragraph {
+  display: inline-block;
+  width: 300px;
+  margin-top: 30px;
+}
+
+#faqMove {
+
+}
+
+.return {
+  display: inline-block;
+  width: auto;
+  border-radius: 20%;
+  padding: 10px;
+  margin-top: 50px;
+  margin-left: 15%;
+  margin-bottom: 30px;
+  background-color: #df2935;
+}
+
+.return h2 {
+  background-color: #df2935;
+}
